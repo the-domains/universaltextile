@@ -1,0 +1,28 @@
+name: universaltextile
+favicon: null
+layout_spectrum: 0.314880135236308
+typography_spectrum: 0.2055798356886953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4489350067451596
+  lightness: 0.24341170792467892
+  saturation: 0.7734170265030116
+  rhythmicContrast: 0.5948628722690046
+purpose: []
